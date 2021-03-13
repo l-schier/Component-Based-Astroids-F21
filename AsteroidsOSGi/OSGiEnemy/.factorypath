@@ -1,0 +1,8 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/osgi/org.osgi.core/4.3.0/org.osgi.core-4.3.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-netbeans-api-annotations-common/RELEASE82/org-netbeans-api-annotations-common-RELEASE82.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-modules/RELEASE82/org-openide-modules-RELEASE82.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-util/RELEASE82/org-openide-util-RELEASE82.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-util-lookup/RELEASE82/org-openide-util-lookup-RELEASE82.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-util-ui/RELEASE82/org-openide-util-ui-RELEASE82.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
